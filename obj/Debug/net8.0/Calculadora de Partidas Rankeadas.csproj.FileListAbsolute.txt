@@ -1,0 +1,14 @@
+C:\Calculadora de Partidas Rankeadas\bin\Debug\net8.0\Calculadora de Partidas Rankeadas.exe
+C:\Calculadora de Partidas Rankeadas\bin\Debug\net8.0\Calculadora de Partidas Rankeadas.deps.json
+C:\Calculadora de Partidas Rankeadas\bin\Debug\net8.0\Calculadora de Partidas Rankeadas.runtimeconfig.json
+C:\Calculadora de Partidas Rankeadas\bin\Debug\net8.0\Calculadora de Partidas Rankeadas.dll
+C:\Calculadora de Partidas Rankeadas\bin\Debug\net8.0\Calculadora de Partidas Rankeadas.pdb
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\Calculadora de Partidas Rankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\Calculadora de Partidas Rankeadas.AssemblyInfoInputs.cache
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\Calculadora de Partidas Rankeadas.AssemblyInfo.cs
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\Calculadora de Partidas Rankeadas.csproj.CoreCompileInputs.cache
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\Calculadora de Partidas Rankeadas.dll
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\refint\Calculadora de Partidas Rankeadas.dll
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\Calculadora de Partidas Rankeadas.pdb
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\Calculadora de Partidas Rankeadas.genruntimeconfig.cache
+C:\Calculadora de Partidas Rankeadas\obj\Debug\net8.0\ref\Calculadora de Partidas Rankeadas.dll
